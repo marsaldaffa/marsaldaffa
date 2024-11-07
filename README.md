@@ -1,3 +1,5 @@
+<h3 align="center">Hi, I'm Marsal 👋 </h3>
+
 - 👋 Hi, I’m @marsaldaffa
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Python
