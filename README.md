@@ -5,7 +5,6 @@
 - 💼 **Role**: Fullstack Developer, 3D generalist, email marketing, and graphic design.
 - 🎮 **Hobbies**: 3D Art and creating NFT.
 - 🧩 **Skills**: Next.js, TypeScript, Tailwind CSS, Python, Django, and 3D rendering.
-- 💪 **Fitness Enthusiast**: Following a structured workout plan focusing on muscle groups throughout the week.
 
 ## Current Projects
 
