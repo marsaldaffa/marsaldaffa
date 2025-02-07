@@ -1,16 +1,17 @@
-# Hi there, I'm Daffa Marsal 👋
+# Hello, I'm Daffa Marsal
 
-## About Me
+I am a **Fullstack Developer** with additional expertise in **3D generalist work, email marketing, and graphic design**. My background includes building and maintaining high-performing web applications, designing intuitive user interfaces, and creating engaging 3D art and NFTs.
 
-- 💼 **Role**: Fullstack Developer, 3D generalist, email marketing, and graphic design.
-- 🎮 **Hobbies**: 3D Art and creating NFT.
-- 🧩 **Skills**: Next.js, TypeScript, Tailwind CSS, Python, Django, and 3D rendering.
+---
 
-## Current Projects
+## Expertise
 
-- 🔄 **Next.js + TypeScript Projects**
-- 🌐 **Django API Development**
-- 🌌 **NFT Art & 3D Design**.
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS  
+- **Backend:** Python, Django  
+- **Design & 3D:** Figma, 3D rendering  
+- **Misc:** Email marketing, Graphic design  
+
+---
 
 ## Tech Stack
 
@@ -24,13 +25,11 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-## Let's Connect!
-
-I'm always open to connecting with other creators and developers. Feel free to reach out:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/marsaldaffa/)
-- 📫 **Email**: marsaldaffa@gmail.com
-
-Thanks for stopping by! 😊
-
 ---
+
+## Get in Touch
+
+- **LinkedIn:** [linkedin.com/in/marsaldaffa](https://www.linkedin.com/in/marsaldaffa/)
+- **Email:** marsaldaffa@gmail.com
+
+Feel free to reach out if you'd like to collaborate, discuss new opportunities, or just say hello.
